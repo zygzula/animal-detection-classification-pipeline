@@ -1,0 +1,10 @@
+tensorflow==2.15.0
+matplotlib==3.8.2
+numpy==1.26.3
+# Use tensorflow-gpu if you have a compatible GPU and CUDA setup
+# tensorflow-gpu==2.12.0
+pandas
+requests
+torch
+pillow
+megadetector
