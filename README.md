@@ -116,9 +116,9 @@ Inference on New Images (Detection + Classification)
 
 ## 🖼️ Example Outputs
 
-![serengetti1_detected.png](outputs/serengetti1_detected.png)
-![serengetti2_detected.png](outputs/serengetti2_detected.png)
-![serengetti3_detected.png](outputs/serengetti3_detected.png)
+![serengeti1_detected.png](outputs/serengeti1_detected.png)
+![serengeti2_detected.png](outputs/serengeti2_detected.png)
+![serengeti3_detected.png](outputs/serengeti3_detected.png)
 
 ---
 
